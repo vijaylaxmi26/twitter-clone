@@ -38,7 +38,7 @@ function Post({
             <p>{text}</p>
           </div>
         </div>
-        <img src={require("./cat.jpg")} alt="somthing" />
+        <img src={image} alt="somthing" />
         <div className="post__footer">
           <ChatBubbleOutlineIcon fontSize="small" />
           <RepeatIcon fontSize="small" />
