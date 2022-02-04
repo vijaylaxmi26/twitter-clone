@@ -40,13 +40,7 @@ function Feed() {
           />
         ))}
       </FlipMove>
-
-      {/* Post */}
-      {/* Post */}
-      {/* Post */}
-      {/* Post */}
-      {/* Post */}
-      {/* Post */}
+ 
     </div>
   );
 }
