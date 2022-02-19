@@ -1,0 +1,5 @@
+npx create-react-app twitter-clone
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+
+set firebase
+get code of src folder
