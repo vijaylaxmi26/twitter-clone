@@ -1,5 +1,9 @@
 npx create-react-app twitter-clone
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+npm init
+npm install --save firebase
+npm i react-twitter-embed
+npm i react-event-timeline
 
 set firebase
 get code of src folder
